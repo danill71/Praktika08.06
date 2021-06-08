@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\WpfApp24\bin\Debug\WpfApp24.exe.config
+C:\Users\student\source\repos\WpfApp24\bin\Debug\WpfApp24.exe
+C:\Users\student\source\repos\WpfApp24\bin\Debug\WpfApp24.pdb
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WpfApp24\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\WpfApp24\obj\Debug\App.g.cs
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24_MarkupCompile.cache
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24_MarkupCompile.lref
+C:\Users\student\source\repos\WpfApp24\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24.g.resources
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24.Properties.Resources.resources
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24.exe
+C:\Users\student\source\repos\WpfApp24\obj\Debug\WpfApp24.pdb
