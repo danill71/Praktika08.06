@@ -246,12 +246,21 @@ namespace WpfApp24
 
         private void buttonSearch_Click(object sender, RoutedEventArgs e)
         {
-            
-            for (int i = 0; i < listBox.Items.Count; i++)
+            int countb = 0;
+            listBox.Items.Clear();
+            for (int i = 0; i < b; i++)
             {
                 if (searchText.Text.Equals(name[i]) || searchText.Text.Equals(surename[i]) || searchText.Text.Equals(otchestvo[i]))
                 {
-
+                    listBox.Items.Add($"Имя: {name[i]}\nФамилия: {surename[i]}\nОтчество: {otchestvo[i]}\nПочта: {mail[i]}\nНомер телефона: {nomer[i]}\nСНИЛС: {snils[i]}");
+                    countb++;
+                }
+            }
+            if (countb == 0)
+            {
+                for (int i = 0; i < b; i++)
+                {
+                        listBox.Items.Add($"Имя: {name[i]}\nФамилия: {surename[i]}\nОтчество: {otchestvo[i]}\nПочта: {mail[i]}\nНомер телефона: {nomer[i]}\nСНИЛС: {snils[i]}");
                 }
             }
         }
